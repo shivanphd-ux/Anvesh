@@ -8,5 +8,5 @@ int main()
 	printf("Product of %d and %d = %d",a,b,c);
 	int d=a+b+c;
 	printf("\nSummation of all %d,%d,%d = %d",a,b,c,d)
-	printf("\nThank you...");
+	printf("\nWelcome again. Thank you...");
 }
